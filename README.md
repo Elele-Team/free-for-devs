@@ -10,7 +10,7 @@ This is a full list of services, software and tools that are available for devel
  - [Tools for Teams and Collaborations](#Tools-for-Teams-and-Collaborations)
  - [Code Quality](#Code-Quality)
  - [Code Search and Browsing](#Code-Search-and-Browsing)
- - [CI/CD](#CI-/-CD)
+ - [CI/CD](#CI/CD)
 
 ## Source code Repositories
 
@@ -131,7 +131,7 @@ This is a full list of services, software and tools that are available for devel
 -   [Sourcegraph](https://about.sourcegraph.com/)  - Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
 -   [Tickgit](https://www.tickgit.com/)  - Surfaces  `TODO`  comments (and other markers) to identify areas of code worth returning to for improvement.
 
-## CI / CD
+## CI/CD
 -   [AccessLint](https://github.com/marketplace/accesslint)  - AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
 -   [Appveyor](https://www.appveyor.com/)  - CD service for Windows, free for Open Source
 -   [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/)  - 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
