@@ -122,3 +122,38 @@ This is a full list of services, software and tools that are available for devel
 -   [Typo CI](https://github.com/marketplace/typo-ci)  - Typo CI reviews your Pull Requests and commits for spelling mistakes, free for Open Source.
 -   [Webceo](https://www.webceo.com/)  - SEO tools but with also code verifications and different type of advices
 -   [Zoompf](https://zoompf.com/)  - Fix the performance of your web sites, detailed analysis
+
+## Code Search and Browsing
+- [Codota](https://www.codota.com/) - Codota helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
+-  [Libraries](https://libraries.io/)  - Search and dependency update notifications for 32 different package managers, free for open source
+-   [Searchcode](https://searchcode.com/)  - Comprehensive text-based code search, free for Open Source
+-   [Sourcegraph](https://about.sourcegraph.com/)  - Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
+-   [Tickgit](https://www.tickgit.com/)  - Surfaces  `TODO`  comments (and other markers) to identify areas of code worth returning to for improvement.
+
+## CI / CD
+-   [AccessLint](https://github.com/marketplace/accesslint)  - AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
+-   [Appveyor](https://www.appveyor.com/)  - CD service for Windows, free for Open Source
+-   [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/)  - 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
+-   [Bitrise](https://www.bitrise.io/)  - A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
+-   [Buddy Works](https://buddy.works/)  - A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
+-   [Buddybuild](https://www.buddybuild.com/)  - Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
+-   [Circleci](https://circleci.com/)  - Free for one concurrent build
+-   [Cirrus-ci](https://cirrus-ci.org/)  - Free for public GitHub repositories
+-   [Codefresh](https://codefresh.io/)  - Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
+-  [Codemagic](https://codemagic.io/)  - Free 500 build minutes/month
+-   [Codeship](https://codeship.com/)  - 100 private builds/month, 5 private projects, unlimited for Open Source
+-   [Deployhq](https://www.deployhq.com/)  - 1 project with 10 daily deployments (30 build minutes/month)
+- [Dploy](http://dploy.io/) - Free for 1 repository, private or public. Supports any service you can throw at it.
+-   [Drone](https://cloud.drone.io/)  - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place
+-  [Fploy](http://ftploy.com/) - 1 project w/ unlimited deployments
+-   [Gitlab](https://about.gitlab.com/product/continuous-integration/)  - Create pipelines directly from Git repositories using GitLab's CI service. 2,000min/mo
+-  [Hub Jazz](https://hub.jazz.net/) - 60 minutes of free build time / month.
+-   [Ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)  - Comparison of Continuous Integration services
+- [Saucelabs](https://saucelabs.com/) - CI with scalable testing for mobile and web apps, free for Open Source
+-   [Semaphoreci](https://semaphoreci.com/)  - Free for Open Source, 100 private builds per month
+-   [Shippable](https://app.shippable.com/)  - 150 private builds/month, free for 1 build container, private and public repos
+-  [Snap-ci](https://snap-ci.com/) - Free for public repositories, 1 build at the time
+-   [Stackahoy](https://stackahoy.io/)  - 100% free. Unlimited deployments, branches and builds
+-   [Styleci](https://styleci.io/)  - Public GitHub repositories only
+-   [Travis-ci](https://travis-ci.org/)  - Free for public GitHub repositories
+-   [Wercker](http://wercker.com/) - Free for public and private repositories
