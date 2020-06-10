@@ -9,7 +9,8 @@ This is a full list of services, software and tools that are available for devel
  - [Source code Repositories](#Source-code-Repositories) 
  - [Tools for Teams and Collaborations](#Tools-for-Teams-and-Collaborations)
  - [Code Quality](#Code-Quality)
-
+ - [Code Search and Browsing](#Code-Search-and-Browsing)
+ - [CI/CD](#CI-/-CD)
 
 ## Source code Repositories
 
