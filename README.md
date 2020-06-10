@@ -14,6 +14,10 @@ This is a full list of services, software and tools that are available for devel
  - [Management Systems](#Management-Systems)
  - [Log Management](#Log-Management)
  - [Translation Management](#Translation-Management)
+ - [Monitoring](#Monitoring)
+ - [Crash/Exception Handling](#crash--exception-handling)
+ - [Search](#Search)
+ - [CDN and Protection](#cdn-and-protection)
 
 ## Source code Repositories
 
@@ -197,3 +201,94 @@ This is a full list of services, software and tools that are available for devel
 -   [POEditor](https://poeditor.com/)  - Free up to 1000 strings
 -   [Transifex](https://www.transifex.com/)  - Free for Open Source
 -   [Webtranslateit](https://webtranslateit.com/)  - Free up to 500 strings
+
+## Monitoring
+-   [Apimetrics](https://apimetrics.io/)  - Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
+-   [Appdynamics](https://www.appdynamics.com/)  - Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
+-   [Appneta](https://www.appneta.com/)  - Free with 1-hour data retention
+-   [Assertible](https://assertible.com/)  - Automated API testing and monitoring. Free plans for teams and individuals.
+-   [Bearer](https://www.bearer.sh/)  - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.
+-   [Blackfire](https://blackfire.io/)  - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan (PHP only)
+-   [Bmc](https://www.bmc.com/truesightpulse/)  - Free 1 second resolution for up to 10 servers
+-   [Circonus](https://www.circonus.com/)  - Free for 20 metrics
+-   [Cloudsploit](https://cloudsploit.com/)  - AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
+-   [Datadoghq](https://www.datadoghq.com/)  - Free for up to 5 nodes
+-   [Deadmanssnitch](https://deadmanssnitch.com/)  - Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
+-   [Elastic](https://www.elastic.co/solutions/apm)  - Instant performance insights for JS developers. Free with 24 hours data retention
+-   [Freeboard](https://freeboard.io/)  - Free for public projects. Dashboards for your Internet of Things (IoT) projects
+-   [Freshworks](https://www.freshworks.com/website-monitoring/)  - Monitor 50 URLs at 1-minute interval with 10 Global locations and 5 Public status pages for Free
+-   [Ghostinspector](https://ghostinspector.com/)  - Free website and web application monitoring. Single user, 100 test runs/month
+-   [Gitential](https://gitential.com/)  - Software Development Analytics platform. Free: unlimited public repositories, unlimited users, free trial for private repos. On-prem version available for enterprise.
+-   [Healthchecks](https://healthchecks.io/)  - Monitor your cron jobs and background tasks. Free for up to 20 checks.
+-   [Inspector](https://www.inspector.dev/)  - A complete Real-Time monitoring dashboard in less than one minute with free forever tier.
+-   [Instrumentalapp](https://instrumentalapp.com/)  - Beautiful and easy-to-use application and server monitoring with up to 500 metrics and 3 hours of data visibility for free
+- [Java Monitor](http://java-monitor.com/) - Free monitoring of JVM's and uptime
+-  [Keychest](https://keychest.net/speedtest)  - Independent speed test and TLS handshake latency test against Digital Ocean
+- [Keymetrics](https://keymetrics.io/) - Free for 2 servers with 7 days data retention
+-   [Letsmonitor](https://letsmonitor.org/)  - SSL monitoring, free for up to 5 monitors
+-   [Loader](https://loader.io/)  — Free load testing tools with limitations
+- [Newrelic](http://newrelic.com/) - Free with 24 hour data retention
+-  [Nixstats](https://nixstats.com/)  - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
+-   [Nodequery](https://nodequery.com/)  - Free basic server monitors up to 10 servers
+- [Opbeat](https://opbeat.com/) - Application performance, errors & releases. Free with 24 hour data retention.
+-   [Opsgenie](https://www.opsgenie.com/)  - Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
+-   [Paessler](https://www.paessler.com/)  - Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
+-   [Pagertree](https://pagertree.com/)  - Simple interface for alerting and on-call management. Free up to 5 users.
+-   [Pingbreak](https://pingbreak.com/)  - Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack or email.
+- [Runscope](https://www.runscope.com/) - Monitor and log API usage. Single user 10,000 request/month free
+- [Sealion](https://sealion.com/) - Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
+-   [Sematext](https://sematext.com/)  - Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500,000 custom metrics data points, unlimited dashboards, users, etc.
+-   [Sitemonki](https://sitemonki.com/)  - Website, domain, Cron & SSL monitoring, 5 monitors in each category for free
+-   [Skylight](https://www.skylight.io/)  - Free for first 100,000 requests (Rails only)
+-   [Speedchecker](https://probeapi.speedchecker.xyz/)  — Performance Monitoring API, checks Ping, DNS, etc.
+- [Stackdriver](http://www.stackdriver.com/) - Free for up to 10 nodes/services
+-   [Stathat](https://www.stathat.com/)  - Get started with 10 stats for free, no expiration
+-   [Statuscake](https://www.statuscake.com/)  - Website monitoring, unlimited tests free with limitations
+-   [Thousandeyes](https://www.thousandeyes.com/)  - Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
+-   [Uptimerobot](https://uptimerobot.com/)  - Website monitoring, 50 monitors free
+-   [Watchsumo](http://www.watchsumo.com/) - Free website monitoring, 50 Http(s), Ping or Keywords, every 5+ minutes
+
+## Crash/Exception Handling
+-  [Airbrake](https://airbrake.io/) - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
+-   [Bugsnag](https://www.bugsnag.com/)  - Free for up to 2,000 errors/month after the initial trial
+-   [Honeybadger](https://www.honeybadger.io/)  - Exception, uptime, and cron monitoring. Free for solo devs and open-source projects (12,000 errors/month).
+-   [Logrocket](https://www.logrocket.com/)  - Logging and session replay for javascript apps. Free for 1,000 sessions a month, 14 days retention
+-   [Rollbar](https://rollbar.com/)  - Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
+-   [Sentry](https://sentry.io/)  - Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
+
+## Search
+-   [Algolia](https://www.algolia.com/)  - Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
+-   [Bonsai](https://bonsai.io/)  - Free 1 GB memory and 1 GB storage
+- [Facetflow](https://facetflow.com/) - Hosted Elasticsearch for Microsoft Azure. Free 5000 docs / 500 MB
+- [Indexisto](http://indexisto.com/) - Site search reinvented. Free 10,000,000 document index limit with advertisement block.
+-   [Searchly](http://www.searchly.com/)  - Free 2 indices and 20 MB storage
+- [Swiftype](https://swiftype.com/) - hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premium level for open-source projects.
+-   [Pagedart](https://pagedart.com/)  - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.
+
+## Email
+soon
+
+## CDN and Protection
+- [ASP](https://www.asp.net/ajax/cdn) - The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
+-   [Bootstrapcdn](https://www.bootstrapcdn.com/)  - CDN for bootstrap, bootswatch and fontawesome.io
+-   [Cdnjs](https://cdnjs.com/)  - CDN for JavaScript libraries, CSS libraries, SWF, images, etc.
+-   [Cloudflare](https://www.cloudflare.com/)  - Basic service is free, good for a blog, it also offers a free SSL certificate service and 5 firewall rules.
+-   [DDoS-Guard](https://ddos-guard.net/store/web)  - Free CDN, DDoS protection and SSL certificate
+-   [Developers Google](https://developers.google.com/speed/libraries/)  - The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
+- [Fastly](https://www.fastly.com/) - Free CDN, all features until 50$/m is reached, enough for most, then pay or suspended.
+-   [Jare](http://www.jare.io/)  - CDN for images. Uses AWS CloudFront
+-   [Jsdelivr](https://www.jsdelivr.com/)  - CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
+-   [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview)  - The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
+-  [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan)  - Free DDoS protection
+-   [Netdepot](https://www.netdepot.com/cdn/)  - First 100 GB free/month
+-   [Ovh](https://www.ovh.ie/ssl-gateway/)  - Free DDoS protection and SSL certificate
+-   [PageCDN](https://pagecdn.com/)  - Offers free Public CDN for everyone, and free Private CDN for opensource / nonprofits.
+-   [pika.dev/cdn](https://www.pika.dev/cdn)  - The 100% Native ES Module JavaScript CDN
+-   [Raw Githack](https://raw.githack.com/)  - A modern replacement of  **rawgit.com**  which simply hosts file using Cloudflare
+-   [Section](https://www.section.io/)  - A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
+-   [Speeder](https://speeder.io/)  - Uses KeyCDN. Automatic image optimization and free CDN boost. Free and does not require any server changes
+-   [Staticaly](https://staticaly.com/)  - CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets and images
+- [Surge](https://surge.sh/) - Zero-bullshit, single–command, bring your own source control web publishing CDN.
+-   [Toranproxy](https://toranproxy.com/)  - Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
+-   [Unpkg](https://unpkg.com/)  - CDN for everything on npm
+-   [Web Support Revolution](https://w.tools/)  - Free CDN, backup, firewall, antivirus and monitoring.
