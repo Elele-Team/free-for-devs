@@ -10,7 +10,10 @@ This is a full list of services, software and tools that are available for devel
  - [Tools for Teams and Collaborations](#Tools-for-Teams-and-Collaborations)
  - [Code Quality](#Code-Quality)
  - [Code Search and Browsing](#Code-Search-and-Browsing)
- - [CI/CD](#ci--cd)
+ - [CI/CD](#CI-/-CD)
+ - [Management Systems](#Management-Systems)
+ - [Log Management](#Log-Management)
+ - [Translation Management](#Translation-Management)
 
 ## Source code Repositories
 
@@ -158,3 +161,39 @@ This is a full list of services, software and tools that are available for devel
 -   [Styleci](https://styleci.io/)  - Public GitHub repositories only
 -   [Travis-ci](https://travis-ci.org/)  - Free for public GitHub repositories
 -   [Wercker](http://wercker.com/) - Free for public and private repositories
+
+
+## Management Systems
+-   [Bitnami](https://bitnami.com/)  - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
+-   [Jamf](https://www.jamf.com/)  - Device management for iPads, iPhones and Macs, 3 devices free
+-   [Moss](https://moss.sh/)  - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
+-   [Runcloud](https://runcloud.io/)  - Server management focusing mainly on PHP projects. Free for up to 1 server.
+- [VisualOps](http://www.visualops.io/) - 3,600 instance hours per month free
+
+## Messaging 
+-   [Cloudamqp](https://www.cloudamqp.com/)  - RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
+- [Cloudkarafka](https://www.cloudkarafka.com/)  - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.
+-   [Pusher](https://pusher.com/)  - Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
+-   [Scaledrone](https://www.scaledrone.com/)  - Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
+-   [Synadia](https://synadia.com/ngs)  -  [NATS.io](https://nats.io/)  as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
+
+## Log Management
+-   [Bugfender](https://bugfender.com/)  - Free up to 100k log lines/day with 24 hours retention
+-   [Humio](https://www.humio.com/)  - Free up to 2 GB/day with 7 days retention
+-   [Logentries](https://logentries.com/)  - Free up to 5 GB/month with 7 days retention
+-   [Loggly](https://www.loggly.com/)  - Free for a single user, see the lite option
+-   [Logz](https://logz.io/)  - Free up to 3 GB/day, 3 days retention
+-   [Papertrailapp](https://papertrailapp.com/)  - 48 hours search, 7 days archive, 100 MB/month
+-   [Sematext](https://sematext.com/logsene)  - Free up to 500 MB/day, 7 days retention
+-   [Splunk](https://www.splunk.com/)  - Free for a single user, 500 MB/day
+-   [Sumologic](https://www.sumologic.com/)  - Free up to 500 MB/day, 7 days retention
+
+## Translation Management
+-   [Crowdin](https://crowdin.com/)  - Unlimited projects, unlimited strings and collaborators for Open Source
+-   [Lingohub](https://lingohub.com/)  - Free up to 3 users, always free for Open Source
+-   [Localizely](https://localizely.com/)  - Free for Open Source
+-   [Loco](https://localise.biz/)  - Free up to 2000 translations, Unlimited translators, 10 languages/project, 1000 translatable assets/project
+-   [Pneskyapp](https://www.oneskyapp.com/)  - Limited free edition for up to 5 users, free for Open Source
+-   [POEditor](https://poeditor.com/)  - Free up to 1000 strings
+-   [Transifex](https://www.transifex.com/)  - Free for Open Source
+-   [Webtranslateit](https://webtranslateit.com/)  - Free up to 500 strings
