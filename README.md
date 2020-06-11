@@ -17,6 +17,7 @@ This is a full list of services, software and tools that are available for devel
  - [Monitoring](#Monitoring)
  - [Crash/Exception Handling](#crash--exception-handling)
  - [Search](#Search)
+ - [Email](#Email)
  - [CDN and Protection](#cdn-and-protection)
 
 ## Source code Repositories
@@ -266,7 +267,55 @@ This is a full list of services, software and tools that are available for devel
 -   [Pagedart](https://pagedart.com/)  - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.
 
 ## Email
-soon
+-   [10minutemail](https://10minutemail.com/)  - Free, temporary email for testing.
+-   [AnonAddy](https://anonaddy.com/)  - Open-source anonymous email forwarding, create unlimited email aliases for free
+-   [Biz Mail](https://biz.mail.ru/)  - 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
+-   [Burnermail](https://burnermail.io/)  - Free 5 Burner Email Addresses, 1 Mailbox, 7 day Mailbox History
+-   [Buttondown](https://buttondown.email/)  - Newsletter service. Up to 1,000 subscribers free
+-   [Cloudmersive](https://www.cloudmersive.com/email-verification-api) - Email validation and verification API for developers, 2,000 free API requests/month
+-   [Contact](https://contact.do/)  - Contact form in a link (bitly for contact forms) - totally free!
+-   [Debugmail](https://debugmail.io/)  - Easy to use testing mail server for developers
+-   [Elasticemail](https://elasticemail.com/)  - 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
+-   [Forwardemail](https://forwardemail.net/)  - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.
+-   [ImprovMX](https://improvmx.com/)  - Free email forwarding
+-   [Inumbo](http://inumbo.com/)  - SMTP based spam filter, free for 10 users
+-   [Kickbox](https://kickbox.io/)  - Verify 100 emails free, real-time API available
+-   [Mail-tester](https://www.mail-tester.com/)  - Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
+-   [Mailboxlayer](https://mailboxlayer.com/)  - Email validation and verification JSON API for developers. 1,000 free API requests/month
+-   [Mailcatcher](https://mailcatcher.me/)  - Catches mail and serves it through a web interface
+-   [Mailchimp](https://mailchimp.com/)  - 2,000 subscribers and 12,000 emails/month free
+-   [MailerLite](https://www.mailerlite.com/)  - 1,000 subscribers/month, unlimited email free
+-  [MailGun](http://www.mailgun.com/) - First 10,000 emails per month are free
+-   [Mailinator](https://www.mailinator.com/)  - Free, public, email system where you can use any inbox you want
+-   [Mailjet](https://www.mailjet.com/)  - 6,000 emails/month free
+-   [Mailkitchen](https://www.mailkitchen.com/)  - Free for life without commitment, 10,000 emails/month, 1,000 emails/day
+-   [Mailnesia](https://mailnesia.com/)  - Free temporary/disposable email, which auto visit registration link.
+-  [Mailstache](https://mailstache.io/) - 4 Mailboxes @ 1GB each for up to 2 custom domains.
+-   [Mailtrap](https://mailtrap.io/)  - Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
+-   [Migadu](https://www.migadu.com/)  - Email Hosting (Webmail, SMTP, IMAP, ...) - free plan is limited to 10 outgoing mails/day
+-   [Moosend](https://moosend.com/)  - Mailing list management service. Free account for 6 months for startups
+-   [Pepipost.](https://pepipost.com/)  - 30k emails free for first month, then first 100 emails/day free
+-   [Phplist](https://phplist.com/)  - Hosted version allow 300 emails/month free
+-   [Postale](https://postale.io/)  - Free domain email addresses for up to 5 users per domain, unlimited domains, POP3/IMAP enabled, no ads
+-   [Postmarkapp](https://postmarkapp.com/)  - 100 emails/month free, unlimited DMARC weekly digests
+-   [Sender](https://www.sender.net/) - Up to 15 000 emails/month - Up to 2 500 subscribers
+-   [Sendgrid](https://sendgrid.com/)  - 100 emails/day and 2,000 contacts free
+-   [Sendinblue](https://www.sendinblue.com/)  - 9,000 emails/month free
+-  [SendLoop](https://sendloop.com/) - 2,000 subscribers and 10,000 email delivery every month is free
+-   [Sendpulse](https://sendpulse.com/)  - 50 emails free/hour, first 12,000 emails/month free
+-  [SimpleLogin](https://simplelogin.io/)  - Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
+-   [Socketlabs](https://www.socketlabs.com/)  - 40k emails free for first month, then first 2000 emails/month free
+-   [Sparkpost](https://www.sparkpost.com/)  - First 500 emails/month free
+-   [Substack](https://substack.com/)  - Unlimited free newsletter service. Start paying when you charge for it.
+-   [Testmail](https://testmail.app/)  - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. 100 emails/month free forever, unlimited free for open source.
+-   [Tinyletter](https://tinyletter.com/) - 5,000 subscribers/month free
+-   [Trashmail](https://www.trashmail.com/)  - Free disposable email addresses with forwarding and automatic address expiration
+-   [Verifalia](https://verifalia.com/email-verification-api)  - Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
+-   [Verimail](https://verimail.io/)  - Bulk and API email verification service. 100 free verifications/month
+-   [Yandex.Connect](https://connect.yandex.com/pdd/)  - Free email and DNS hosting for up to 1,000 users
+-   [Yopmail](http://www.yopmail.fr/en/)  - Disposable email addresses
+-   [Zoho.com](https://www.zoho.com/mail/)  - Free Webmail and collaboration for up to 5 users
+
 
 ## CDN and Protection
 - [ASP](https://www.asp.net/ajax/cdn) - The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
