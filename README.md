@@ -1,4 +1,5 @@
 # Free for Developers
+# Moved to https://docs.elele.team
 
 This is a full list of services, software and tools that are available for developers. There are already existing lists available, that are comprehensive and include majority of those listed here. However, we felt that we could update ours more often. 
 
